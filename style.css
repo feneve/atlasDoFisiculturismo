@@ -1,0 +1,121 @@
+:root {
+--primary-color: #e53935;
+--accent-color: #ff6f60;
+--bg-color: #121212;
+--text-color: #e0e0e0;
+}
+
+*, *::before, *::after {
+ box-sizing: border-box;
+}
+
+
+body {
+margin: 0;
+background: var(--bg-color);
+font-family: Arial, sans-serif;
+color: var(--text-color);
+}
+
+body.brasil-bg {
+ background-image: linear-gradient(rgba(10, 26, 24, 0.85), rgba(10, 26, 24, 0.85)), url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700"><rect width="1000" height="700" fill="%23009c3b"/><path d="M500 50L950 350L500 650L50 350Z" fill="%23ffdf00"/><circle cx="500" cy="350" r="175" fill="%23002776"/></svg>');
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center center;
+ background-attachment: fixed;
+ transition: background-image 0.5s ease-in-out;
+}
+
+
+header {
+text-align: center;
+padding: 2rem 1rem;
+}
+
+
+.subtitulo {
+margin-top: -10px;
+color: var(--accent-color);
+}
+
+
+.busca-area {
+margin-top: 1rem;
+display: flex;
+justify-content: center;
+gap: .5rem;
+}
+
+
+#input-busca {
+width: 300px;
+padding: .7rem;
+border-radius: .5rem;
+border: none;
+}
+
+
+#btn-buscar {
+padding: .7rem 1.2rem;
+border: none;
+background: var(--primary-color);
+color: white;
+border-radius: .5rem;
+cursor: pointer;
+}
+
+
+#filtros-categoria {
+margin-top: 1rem;
+}
+
+#filtros-categoria button {
+ padding: .5rem 1rem;
+ border: 1px solid var(--primary-color);
+ background: transparent;
+ color: var(--primary-color);
+ border-radius: .5rem;
+ cursor: pointer;
+ margin: 0 .2rem;
+ transition: all .3s ease;
+}
+ 
+#filtros-categoria button:hover,
+#filtros-categoria button.active {
+ background: var(--primary-color);
+ color: white;
+}
+
+.sr-only {
+ position: absolute;
+ width: 1px;
+ height: 1px;
+ padding: 0;
+ margin: -1px;
+ overflow: hidden;
+ clip: rect(0, 0, 0, 0);
+ white-space: nowrap;
+ border-width: 0;
+}
+
+.card-container {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ gap: 1.5rem;
+ padding: 2rem;
+}
+
+.card {
+ background: #1e1e1e;
+ border-left: 5px solid var(--primary-color);
+ padding: 1.5rem;
+ border-radius: .5rem;
+ width: 300px;
+ box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.card a {
+ color: var(--accent-color);
+ text-decoration: none;
+}

@@ -1,0 +1,674 @@
+[
+{
+"nome": "Ronnie Coleman",
+"descricao": "8x Mr. Olympia, símbolo da categoria Open e do treino extremo.",
+"categoria": "Open",
+"data_criacao": "1998 - 2005",
+"link": "https://www.youtube.com/watch?v=H1D1sXx1V2o",
+"tags": ["Open", "Mr. Olympia", "Treino pesado"]
+},
+{
+"nome": "Arnold Schwarzenegger",
+"descricao": "7x Mr. Olympia e ícone absoluto da Golden Era.",
+"categoria": "Classic Physique",
+"data_criacao": "1970 - 1977",
+"link": "https://www.youtube.com/watch?v=1TQhqhG3ybs",
+"tags": ["Classic", "Golden Era"]
+},
+{
+"nome": "Chris Bumstead (CBum)",
+"descricao": "5x campeão da Classic Physique, referência estética atual.",
+"categoria": "Classic Physique",
+"data_criacao": "2019 - 2024",
+"link": "https://www.youtube.com/watch?v=2fVK3lz0YpI",
+"tags": ["Classic", "Estética"]
+},
+{
+"nome": "Supino Reto",
+"descricao": "Exercício fundamental para peitoral.",
+"categoria": "Exercício",
+"data_criacao": "Peito",
+"link": "https://www.youtube.com/watch?v=rT7DgCr-3pg",
+"tags": ["peito", "exercício"]
+},
+{
+"nome": "Agachamento Livre",
+"descricao": "O rei dos exercícios para pernas.",
+"categoria": "Exercício",
+"data_criacao": "Pernas",
+"link": "https://www.youtube.com/watch?v=aclHkVaku9U",
+"tags": ["pernas", "exercício"]
+},
+{
+"nome": "Jay Cutler",
+"descricao": "4x Mr. Olympia, conhecido por seu volume e rivalidade com Ronnie Coleman.",
+"categoria": "Open",
+"data_criacao": "2006 - 2010",
+"link": "https://www.youtube.com/watch?v=due05mAMa1A",
+"tags": ["Open", "Mr. Olympia", "Volume"]
+},
+{
+"nome": "Dorian Yates",
+"descricao": "6x Mr. Olympia, pioneiro do treino de alta intensidade (HIT).",
+"categoria": "Open",
+"data_criacao": "1992 - 1997",
+"link": "https://www.youtube.com/watch?v=0zH-pl65z3w",
+"tags": ["Open", "Mr. Olympia", "HIT"]
+},
+{
+"nome": "Phil Heath",
+"descricao": "7x Mr. Olympia, apelidado de 'The Gift' por sua genética privilegiada.",
+"categoria": "Open",
+"data_criacao": "2011 - 2017",
+"link": "https://www.youtube.com/watch?v=pMFaLi3oA-c",
+"tags": ["Open", "Mr. Olympia", "Genética"]
+},
+{
+"nome": "Big Ramy",
+"descricao": "2x Mr. Olympia, famoso por seu tamanho e volume muscular massivo.",
+"categoria": "Open",
+"data_criacao": "2020 - 2021",
+"link": "https://www.youtube.com/watch?v=U-62m3nBDPw",
+"tags": ["Open", "Mr. Olympia", "Massa"]
+},
+{
+"nome": "Hadi Choopan",
+"descricao": "Mr. Olympia 2022, 'O Lobo Persa', conhecido por sua incrível condição.",
+"categoria": "Open",
+"data_criacao": "2022",
+"link": "https://www.youtube.com/watch?v=wzliBq24a_8",
+"tags": ["Open", "Mr. Olympia", "Condicionamento"]
+},
+{
+"nome": "Derek Lunsford",
+"descricao": "Mr. Olympia 2023, o primeiro a vencer em duas categorias diferentes (212 e Open).",
+"categoria": "Open",
+"data_criacao": "2023",
+"link": "https://www.youtube.com/watch?v=G3vARgq-a-s",
+"tags": ["Open", "Mr. Olympia", "Histórico"]
+},
+{
+"nome": "Lee Haney",
+"descricao": "8x Mr. Olympia, empatado com Ronnie Coleman em número de títulos.",
+"categoria": "Open",
+"data_criacao": "1984 - 1991",
+"link": "https://www.youtube.com/watch?v=Pz2s2m2Rk_8",
+"tags": ["Open", "Mr. Olympia", "Lenda"]
+},
+{
+"nome": "Samson Dauda",
+"descricao": "Vencedor do Arnold Classic, conhecido por sua estrutura e estética no Open.",
+"categoria": "Open",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=m4uV9n3aFwI",
+"tags": ["Open", "Arnold Classic", "Estrutura"]
+},
+{
+"nome": "Ramon Dino",
+"descricao": "Principal rival de CBum, vice-campeão do Olympia e campeão do Arnold Classic.",
+"categoria": "Classic Physique",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=7hB6dJ-GzYU",
+"tags": ["Classic", "Rivalidade", "Brasil"]
+},
+{
+"nome": "Urs Kalecinski",
+"descricao": "Conhecido como 'The Miracle Bear', famoso por suas poses e carisma.",
+"categoria": "Classic Physique",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=1Tgoi_23rsA",
+"tags": ["Classic", "Posing", "Alemanha"]
+},
+{
+"nome": "Terrence Ruffin",
+"descricao": "2x campeão do Arnold Classic, um dos melhores posers da atualidade.",
+"categoria": "Classic Physique",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=Ld5aHAnU3w8",
+"tags": ["Classic", "Posing", "Arnold Classic"]
+},
+{
+"nome": "Breon Ansley",
+"descricao": "2x campeão da Classic Physique no Mr. Olympia.",
+"categoria": "Classic Physique",
+"data_criacao": "2017 - 2018",
+"link": "https://www.youtube.com/watch?v=hVp8eQfe3yU",
+"tags": ["Classic", "Mr. Olympia"]
+},
+{
+"nome": "Wesley Vissers",
+"descricao": "Campeão do Arnold Classic 2024, trazendo um visual massivo para a Classic.",
+"categoria": "Classic Physique",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=3-E8aTqKwLg",
+"tags": ["Classic", "Arnold Classic", "Massa"]
+},
+{
+"nome": "Levantamento Terra",
+"descricao": "Exercício composto para costas, glúteos e posteriores.",
+"categoria": "Exercício",
+"data_criacao": "Costas",
+"link": "https://www.youtube.com/watch?v=1-ccu9v862A",
+"tags": ["costas", "exercício", "composto"]
+},
+{
+"nome": "Remada Curvada",
+"descricao": "Excelente para espessura das costas.",
+"categoria": "Exercício",
+"data_criacao": "Costas",
+"link": "https://www.youtube.com/watch?v=vT2GjY_Umpw",
+"tags": ["costas", "exercício"]
+},
+{
+"nome": "Desenvolvimento Militar",
+"descricao": "Exercício chave para ombros fortes e largos.",
+"categoria": "Exercício",
+"data_criacao": "Ombros",
+"link": "https://www.youtube.com/watch?v=QAQ64hK4Xxs",
+"tags": ["ombros", "exercício"]
+},
+{
+"nome": "Mike O'Hearn",
+"descricao": "Ícone da longevidade no esporte, conhecido como 'Titan', alega ser um atleta natural por toda a vida.",
+"categoria": "Natural",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=b3pIAG2c4Hw",
+"tags": ["Natural", "Lenda", "Longevidade"]
+},
+{
+"nome": "Jeff Nippard",
+"descricao": "Fisiculturista natural e powerlifter conhecido por sua abordagem científica ao treino e nutrição.",
+"categoria": "Natural",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=sHw_IIN_M-o",
+"tags": ["Natural", "Ciência", "Técnica"]
+},
+{
+"nome": "Simeon Panda",
+"descricao": "Influenciador fitness global e fisiculturista natural com um dos físicos mais estéticos.",
+"categoria": "Natural",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=X1hG3ZcyY-4",
+"tags": ["Natural", "Estética", "Influenciador"]
+},
+{
+"nome": "Caio Bottura",
+"descricao": "Principal nome do fisiculturismo natural no Brasil, autor e empresário.",
+"categoria": "Natural",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=z-8f2-IuV5s",
+"tags": ["Natural", "Brasil", "Referência"]
+},
+{
+"nome": "Layne Norton",
+"descricao": "PhD, fisiculturista e powerlifter natural, conhecido por popularizar o 'flexible dieting'.",
+"categoria": "Natural",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=2y5a-p2s1sU",
+"tags": ["Natural", "PhD", "Nutrição"]
+},
+{
+"nome": "Matheus Donaire",
+"descricao": "Atleta e influenciador brasileiro de fisiculturismo natural.",
+"categoria": "Natural",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=b-zZ-J0AkfI",
+"tags": ["Natural", "Brasil", "Influenciador"]
+},
+{
+"nome": "Alberto Nunez",
+"descricao": "Coach e fisiculturista natural profissional, co-fundador da 3DMJ.",
+"categoria": "Natural",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=jyeiK-qg_gA",
+"tags": ["Natural", "Coach", "3DMJ"]
+},
+{
+"nome": "Doug Miller",
+"descricao": "Fisiculturista natural profissional com múltiplos títulos mundiais.",
+"categoria": "Natural",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=6Z2A8e-8kSg",
+"tags": ["Natural", "Campeão", "Mundial"]
+},
+{
+"nome": "Ulisses Jr.",
+"descricao": "Famoso por seu físico simétrico e condição extrema como atleta natural.",
+"categoria": "Natural",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=r_t2a9eU0yY",
+"tags": ["Natural", "Simetria", "Condicionamento"]
+},
+{
+"nome": "Ron Williams",
+"descricao": "Um dos fisiculturistas naturais mais condecorados da história, com mais de 200 títulos.",
+"categoria": "Natural",
+"data_criacao": "Veterano",
+"link": "https://www.youtube.com/watch?v=o9hBD22x35s",
+"tags": ["Natural", "Lenda", "Títulos"]
+},
+{
+"nome": "Ashley Kaltwasser",
+"descricao": "Considerada a maior atleta da história da Bikini, com 3 títulos de Ms. Bikini Olympia.",
+"categoria": "Bikini",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=TqgLg-Le_lA",
+"tags": ["Bikini", "Olympia", "Lenda"]
+},
+{
+"nome": "Jennifer Dorie",
+"descricao": "Múltipla campeã do Bikini Olympia, conhecida por sua presença de palco e físico equilibrado.",
+"categoria": "Bikini",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=0pZ_h-3b-pM",
+"tags": ["Bikini", "Olympia", "Campeã"]
+},
+{
+"nome": "Lauralie Chapados",
+"descricao": "Atleta canadense de topo, conhecida por seu 'posing' e múltiplos títulos no Arnold Classic.",
+"categoria": "Bikini",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=jD-A1g4tLpY",
+"tags": ["Bikini", "Posing", "Arnold Classic"]
+},
+{
+"nome": "Elisa Pecini",
+"descricao": "Atleta brasileira e campeã do Bikini Olympia, superou a anorexia para se tornar uma campeã.",
+"categoria": "Bikini",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=Hk-jYg-y-wA",
+"tags": ["Bikini", "Olympia", "Brasil"]
+},
+{
+"nome": "Isa Pecini",
+"descricao": "Irmã de Elisa, também uma atleta profissional de destaque na categoria Bikini.",
+"categoria": "Bikini",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=v-xG-1Z-Y-s",
+"tags": ["Bikini", "Brasil", "Profissional"]
+},
+{
+"nome": "Aimee Leann",
+"descricao": "Estrela em ascensão na categoria Bikini, campeã do Olympia 2024.",
+"categoria": "Bikini",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=7-Q-1f-qf-Q",
+"tags": ["Bikini", "Olympia", "Campeã"]
+},
+{
+"nome": "Angelica Teixeira",
+"descricao": "Atleta brasileira e 2x campeã do Bikini Olympia, uma referência na categoria.",
+"categoria": "Bikini",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=3-f-1-t-1-A",
+"tags": ["Bikini", "Olympia", "Brasil"]
+},
+{
+"nome": "Janet Layug",
+"descricao": "Campeã do Bikini Olympia 2020, conhecida por sua elegância e físico clássico.",
+"categoria": "Bikini",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Bikini", "Olympia", "Elegância"]
+},
+{
+"nome": "Maureen Blanquisco",
+"descricao": "Campeã do Bikini Olympia 2022, representando as Filipinas.",
+"categoria": "Bikini",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Bikini", "Olympia", "Filipinas"]
+},
+{
+"nome": "Etila Santiago",
+"descricao": "Atleta brasileira de destaque na categoria Bikini Pro.",
+"categoria": "Bikini",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Bikini", "Brasil", "Profissional"]
+},
+{
+"nome": "Francielle Mattos",
+"descricao": "Primeira e múltipla campeã da categoria Wellness no Mr. Olympia.",
+"categoria": "Wellness",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=9-f-1-t-1-A",
+"tags": ["Wellness", "Olympia", "Brasil"]
+},
+{
+"nome": "Isabelle Nunes",
+"descricao": "Vice-campeã do Olympia e campeã do Arnold Classic, grande nome da Wellness.",
+"categoria": "Wellness",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=8-f-1-t-1-A",
+"tags": ["Wellness", "Arnold Classic", "Brasil"]
+},
+{
+"nome": "Angela Borges",
+"descricao": "Pioneira da categoria Wellness e multicampeã amadora e profissional.",
+"categoria": "Wellness",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Wellness", "Pioneira", "Brasil"]
+},
+{
+"nome": "Yarishna Ayala",
+"descricao": "Atleta de Porto Rico, uma das principais competidoras da Wellness no Olympia.",
+"categoria": "Wellness",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Wellness", "Olympia", "Porto Rico"]
+},
+{
+"nome": "Giselle Machado",
+"descricao": "Atleta brasileira com forte presença no cenário profissional da Wellness.",
+"categoria": "Wellness",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Wellness", "Brasil", "Profissional"]
+},
+{
+"nome": "Ramon Dino",
+"descricao": "O 'Dinossauro do Acre', vice-campeão do Mr. Olympia na Classic Physique e ícone do fisiculturismo brasileiro.",
+"categoria": "Classic Physique",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=7hB6dJ-GzYU",
+"tags": ["Classic", "Brasil", "Rivalidade", "Olympia"]
+},
+{
+"nome": "Diogo Montenegro",
+"descricao": "Atleta da categoria Men's Physique, um dos brasileiros com mais participações no Mr. Olympia.",
+"categoria": "Men's Physique",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Men's Physique", "Brasil", "Olympia"]
+},
+{
+"nome": "Felipe Franco",
+"descricao": "Atleta e influenciador, um dos pioneiros da categoria Men's Physique no Brasil.",
+"categoria": "Men's Physique",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Men's Physique", "Brasil", "Influenciador"]
+},
+{
+"nome": "Renato Cariani",
+"descricao": "Empresário, influenciador e ex-atleta, uma das figuras mais conhecidas do fitness brasileiro.",
+"categoria": "Open",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Open", "Brasil", "Influenciador"]
+},
+{
+"nome": "Júlio Balestrin",
+"descricao": "Atleta e renomado treinador, conhecido por sua metodologia de treinos intensos.",
+"categoria": "Open",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Open", "Brasil", "Coach"]
+},
+{
+"nome": "Anne Luise Freitas",
+"descricao": "Atleta da categoria Figure, uma das brasileiras mais bem-sucedidas no cenário internacional.",
+"categoria": "Figure",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Figure", "Brasil", "Olympia"]
+},
+{
+"nome": "Vivi Winkler",
+"descricao": "Atleta e influenciadora da categoria Wellness com grande popularidade.",
+"categoria": "Wellness",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Wellness", "Brasil", "Influenciadora"]
+},
+{
+"nome": "Rafael Brandão",
+"descricao": "Atleta da categoria Open com um dos físicos mais estéticos do Brasil, competidor do Mr. Olympia.",
+"categoria": "Open",
+"data_criacao": "Contemporâneo",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["Open", "Brasil", "Estética", "Olympia"]
+},
+{
+"nome": "Supino Inclinado com Halteres",
+"descricao": "Excelente para focar na porção superior do peitoral.",
+"categoria": "Exercício",
+"data_criacao": "Peito",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "peito", "halteres"]
+},
+{
+"nome": "Crucifixo Reto",
+"descricao": "Movimento de abdução para alongar e trabalhar o peitoral.",
+"categoria": "Exercício",
+"data_criacao": "Peito",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "peito"]
+},
+{
+"nome": "Flexão de Braço",
+"descricao": "Exercício calistênico clássico para peito, ombros e tríceps.",
+"categoria": "Exercício",
+"data_criacao": "Peito",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "peito", "calistenia"]
+},
+{
+"nome": "Peck Deck (Voador)",
+"descricao": "Máquina para isolar o movimento de adução do peitoral.",
+"categoria": "Exercício",
+"data_criacao": "Peito",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "peito", "máquina"]
+},
+{
+"nome": "Crossover (Polia)",
+"descricao": "Trabalha diferentes porções do peito dependendo da altura da polia.",
+"categoria": "Exercício",
+"data_criacao": "Peito",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "peito", "polia"]
+},
+{
+"nome": "Barra Fixa",
+"descricao": "Exercício fundamental para largura das costas, com foco no grande dorsal.",
+"categoria": "Exercício",
+"data_criacao": "Costas",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "costas", "calistenia"]
+},
+{
+"nome": "Puxada Frontal",
+"descricao": "Alternativa à barra fixa, feita na máquina para desenvolver o dorsal.",
+"categoria": "Exercício",
+"data_criacao": "Costas",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "costas", "máquina"]
+},
+{
+"nome": "Remada Cavalinho",
+"descricao": "Remada com pegada neutra para trabalhar a espessura do meio das costas.",
+"categoria": "Exercício",
+"data_criacao": "Costas",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "costas"]
+},
+{
+"nome": "Serrote (Remada Unilateral)",
+"descricao": "Trabalho unilateral para corrigir assimetrias e focar no dorsal.",
+"categoria": "Exercício",
+"data_criacao": "Costas",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "costas", "halteres"]
+},
+{
+"nome": "Hiperextensão Lombar",
+"descricao": "Fortalece a região lombar, glúteos e posteriores.",
+"categoria": "Exercício",
+"data_criacao": "Costas",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "lombar"]
+},
+{
+"nome": "Leg Press 45º",
+"descricao": "Máquina para trabalhar quadríceps, posteriores e glúteos com altas cargas.",
+"categoria": "Exercício",
+"data_criacao": "Pernas",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "pernas", "máquina"]
+},
+{
+"nome": "Cadeira Extensora",
+"descricao": "Exercício de isolamento para o quadríceps.",
+"categoria": "Exercício",
+"data_criacao": "Pernas",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "pernas", "quadríceps"]
+},
+{
+"nome": "Mesa Flexora",
+"descricao": "Exercício de isolamento para os posteriores da coxa.",
+"categoria": "Exercício",
+"data_criacao": "Pernas",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "pernas", "posteriores"]
+},
+{
+"nome": "Afundo",
+"descricao": "Exercício unilateral excelente para glúteos e quadríceps.",
+"categoria": "Exercício",
+"data_criacao": "Pernas",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "pernas", "glúteos"]
+},
+{
+"nome": "Panturrilha em Pé",
+"descricao": "Exercício para desenvolver os músculos da panturrilha (gastrocnêmio).",
+"categoria": "Exercício",
+"data_criacao": "Pernas",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "panturrilha"]
+},
+{
+"nome": "Elevação Lateral",
+"descricao": "Principal exercício para a porção medial do deltoide, criando largura nos ombros.",
+"categoria": "Exercício",
+"data_criacao": "Ombros",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "ombros"]
+},
+{
+"nome": "Elevação Frontal",
+"descricao": "Foca na porção anterior do deltoide.",
+"categoria": "Exercício",
+"data_criacao": "Ombros",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "ombros"]
+},
+{
+"nome": "Crucifixo Inverso",
+"descricao": "Trabalha a porção posterior do deltoide, importante para a postura.",
+"categoria": "Exercício",
+"data_criacao": "Ombros",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "ombros", "deltoide posterior"]
+},
+{
+"nome": "Encolhimento",
+"descricao": "Exercício para desenvolver o músculo trapézio.",
+"categoria": "Exercício",
+"data_criacao": "Ombros",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "trapézio"]
+},
+{
+"nome": "Rosca Direta com Barra",
+"descricao": "Exercício básico e eficaz para construção de massa no bíceps.",
+"categoria": "Exercício",
+"data_criacao": "Bíceps",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "bíceps", "barra"]
+},
+{
+"nome": "Rosca Alternada",
+"descricao": "Trabalho unilateral do bíceps com halteres, permite focar em cada braço.",
+"categoria": "Exercício",
+"data_criacao": "Bíceps",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "bíceps", "halteres"]
+},
+{
+"nome": "Rosca Scott",
+"descricao": "Isola o bíceps ao impedir o balanço dos ombros.",
+"categoria": "Exercício",
+"data_criacao": "Bíceps",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "bíceps", "isolamento"]
+},
+{
+"nome": "Rosca Martelo",
+"descricao": "Trabalha o bíceps e o músculo braquial, adicionando espessura ao braço.",
+"categoria": "Exercício",
+"data_criacao": "Bíceps",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "bíceps", "braquial"]
+},
+{
+"nome": "Tríceps Pulley",
+"descricao": "Exercício popular na polia para isolar o tríceps.",
+"categoria": "Exercício",
+"data_criacao": "Tríceps",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "tríceps", "polia"]
+},
+{
+"nome": "Tríceps Testa",
+"descricao": "Excelente construtor de massa para o tríceps, feito com barra ou halteres.",
+"categoria": "Exercício",
+"data_criacao": "Tríceps",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "tríceps"]
+},
+{
+"nome": "Mergulho no Banco",
+"descricao": "Exercício com peso corporal para tríceps.",
+"categoria": "Exercício",
+"data_criacao": "Tríceps",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "tríceps", "calistenia"]
+},
+{
+"nome": "Tríceps Francês",
+"descricao": "Alongamento e contração efetiva do tríceps, pode ser feito unilateral ou bilateral.",
+"categoria": "Exercício",
+"data_criacao": "Tríceps",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "tríceps"]
+},
+{
+"nome": "Abdominal Supra",
+"descricao": "Exercício básico para a porção superior do reto abdominal.",
+"categoria": "Exercício",
+"data_criacao": "Abdômen",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "abdômen"]
+},
+{
+"nome": "Prancha Abdominal",
+"descricao": "Exercício isométrico para fortalecer todo o core.",
+"categoria": "Exercício",
+"data_criacao": "Abdômen",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "abdômen", "core", "isometria"]
+},
+{
+"nome": "Elevação de Pernas",
+"descricao": "Foca na porção inferior do reto abdominal.",
+"categoria": "Exercício",
+"data_criacao": "Abdômen",
+"link": "https://www.youtube.com/watch?v=example",
+"tags": ["exercício", "abdômen"]
+}
+]

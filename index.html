@@ -1,0 +1,48 @@
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<title>Atlas do Fisiculturismo</title>
+</head>
+<body>
+<header>
+<h1>Atlas do Fisiculturismo</h1>
+<p class="subtitulo">Pesquise atletas, categorias ou exercícios</p>
+
+
+<div class="busca-area">
+<label for="input-busca" class="sr-only">Pesquise por nome, exercício ou categoria</label>
+<input type="text" id="input-busca" placeholder="Pesquise por nome, exercício ou categoria...">
+<button id="btn-buscar">Buscar</button>
+</div>
+
+
+<div id="filtros-categoria">
+<button data-filter="Open">Open</button>
+<button data-filter="Classic Physique">Classic</button>
+<button data-filter="Exercício">Exercícios</button>
+<button data-filter="Natural">Natural</button> 
+<button data-filter="Bikini">Bikini</button> 
+<button data-filter="Wellness">Wellness</button> 
+<button data-tag="Brasil">Brasil</button> 
+<button id="btn-limpar">Limpar Filtros</button>
+</div>
+</header>
+
+
+<main>
+<section class="card-container"></section>
+</main>
+
+
+<footer>
+<ul>
+<li><a href="#">© 2025 - Atlas do Fisiculturismo</a></li>
+</ul>
+</footer>
+
+
+<script src="script.js"></script>
+</body>
+</html>
